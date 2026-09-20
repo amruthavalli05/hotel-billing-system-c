@@ -35,10 +35,10 @@ This mini project helped me practice C programming concepts and understand how m
 ## Output
 
 ### Order and Bill
-![Order Output](order output.png)
+![Order Output](order output.png.JPG)
 
 ### Payment
-![Payment Output](payment output.png)
+![Payment Output](payment output.png.JPG)
 
 
 
