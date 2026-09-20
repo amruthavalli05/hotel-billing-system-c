@@ -118,17 +118,17 @@ b:
                                         case 1: printf("payment done by cash\n");
                                                 printf("final bill= %d\n",bill);
                                                 printf("visit again thanks\n");
-                                                break;
+                                                return 0;
 
                                         case 2: printf("payment done by UPI\n");
                                                 printf("final bill= %d\n",bill);
                                                 printf("visit again thanks\n");
-                                                break;
+                                                return 0;
 
                                         case 3: printf("payment done by card\n");
                                                 printf("final bill=%d\n",bill);
                                                 printf("visit again thanks\n");
-                                                break;
+                                                return 0;
 
                                         case 4: goto b;
                                 }
