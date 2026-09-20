@@ -31,3 +31,17 @@ Output screenshots are included in this repository to demonstrate the working of
 Learning
 
 This mini project helped me practice C programming concepts and understand how menu-driven programs work.
+
+## Output
+
+### Order and Bill
+![Order Output](order output.png)
+
+### Payment
+![Payment Output](payment output.png)
+
+
+
+
+
+
